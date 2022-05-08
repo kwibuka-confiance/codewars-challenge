@@ -11,7 +11,7 @@ function noOneLikesIt(arr) {
   } else {
     result = `${arr[0]}, ${arr[1]} and ${arr.length - 2} others like this`;
   }
-  console.log(result);
+
   return result;
 }
 
